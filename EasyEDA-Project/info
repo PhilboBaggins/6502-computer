@@ -4,7 +4,7 @@
   "name": "6502 computer",
   "content": "",
   "created_at": "2022-11-26 02:14:37",
-  "updated_at": "2022-11-26 21:43:31",
+  "updated_at": "2022-11-26 21:47:10",
   "stick": "",
   "documents": [
     {
@@ -199,11 +199,11 @@
         "b92daa500f004b90a2ea0718943f8a91": 1
       },
       "BOM": [],
-      "updateTime": 1669459411,
+      "updateTime": 1669459630,
       "createTime": 1669391646,
       "histories": [],
       "created_at": "2022-11-26 02:54:06",
-      "updated_at": "2022-11-26 21:43:31"
+      "updated_at": "2022-11-26 21:47:10"
     }
   ],
   "sort": [],
