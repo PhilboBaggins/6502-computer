@@ -3,7 +3,7 @@
 
 .................................................
 
-TODO: Add photo of board
+![Render of mostly assembled v1.1 board](./Exports-v1.1/board.png)
 
 Components
 ----------
